@@ -4,4 +4,4 @@
 
 I had utilize my fundamental knowledge in SQL through this project.
 
-You can view my project (here[notebook.ipynb])
+You can view my project [here]()
