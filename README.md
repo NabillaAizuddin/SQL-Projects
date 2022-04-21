@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## DataCamp Guided SQL Projects
+## [DataCamp Guided SQL Projects](https://github.com/NabillaAizuddin/SQL-Projects/blob/15647e3501faa535d73970a26120dabd72b4567f/README.md)
 
 I had utilize my fundamental knowledge in SQL through these project.
 + These projects are completed using key SQL functions such as:
