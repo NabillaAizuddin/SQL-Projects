@@ -1,6 +1,8 @@
 # SQL-Projects
 
-**1. Analyze International Debt Statistics**
+## DataCamp Guided SQL Projects
+
+### **1. Analyze International Debt Statistics**
 
 I had utilize my fundamental knowledge in SQL through this project.
 + This project is completed using key SQL functions such as: 
