@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## [DataCamp SQL Projects](https://github.com/NabillaAizuddin/SQL-Projects/blob/15647e3501faa535d73970a26120dabd72b4567f/README.md)
+## [DataCamp SQL Projects]
 
 Click below to view the projects.
 
