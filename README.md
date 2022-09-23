@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## [DataCamp SQL Projects]
+## DataCamp SQL Projects
 
 Click below to view the projects.
 
