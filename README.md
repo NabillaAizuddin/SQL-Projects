@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## [DataCamp Guided SQL Projects](https://github.com/NabillaAizuddin/SQL-Projects/blob/15647e3501faa535d73970a26120dabd72b4567f/README.md)
+## [DataCamp SQL Projects](https://github.com/NabillaAizuddin/SQL-Projects/blob/15647e3501faa535d73970a26120dabd72b4567f/README.md)
 
 Click below to view the projects.
 
@@ -12,3 +12,26 @@ I had utilize my fundamental knowledge in SQL through these project.
 + These projects are completed using key SQL functions such as:
 
 ***```SUM()```, ```MAX()```, ```WHERE```, ```GROUP BY```, ```ORDER BY```, ```LIMIT``` clause and ```WHERE``` clause.***
+
+
+### 3. [Optimizing Online Sports Retail Revenue](https://github.com/NabillaAizuddin/SQL-Projects/blob/c3fb7f0d3f674e2786768135278af61de0cb290c/notebook.ipynb)
+
+For this third project, I learnt to utilized the data to:
+  + Analyse the variety of listing prices and count the number of product under each listing prices using
+***```SELECT```,```COUNT()```, ```FROM```, ```INNER JOIN```, ```WHERE```, ```GROUP BY```, ```ORDER BY```***
+  
+  + Create labels for products grouped by price range and brand using a ```CASE WHEN``` statement.
+    
+  + Calculate the average discount offered by brand using ```HAVING```.
+  
+  + Calculate the correlation between reviews and revenue using ```corr(table1.column1, table2.column2)```.
+  
+  + Find the ratings and reviews by product description length using ```TRUNC``` and convert data type ```column::numeric``` OR ```column::integer```.
+  
+  + Count the number of reviews per brand per month using ```DATE_PART('month', column) AS month```
+  
+  + Create CTE ```WITH ___ AS```
+  
+  + Calculate median using ```percentile_disc(0.5) WITHIN GROUP (ORDER BY column)```.
+  
+  + Use ```WHERE ___ NOT IN``` to filter the items not in the CTE.
