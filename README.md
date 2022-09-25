@@ -35,3 +35,5 @@ For this third project, I learnt to utilized the data to:
   + Calculate median using ```percentile_disc(0.5) WITHIN GROUP (ORDER BY column)```.
   
   + Use ```WHERE ___ NOT IN``` to filter the items not in the CTE.
+  
+### 4. [Analyzing NYC Public School Test Result Scores]
