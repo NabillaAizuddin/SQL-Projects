@@ -11,8 +11,13 @@ Click below to view the projects.
 I had utilize my fundamental knowledge in SQL through these project.
 + These projects are completed using key SQL functions such as:
 
-***```SUM()```, ```MAX()```, ```WHERE```, ```GROUP BY```, ```ORDER BY```, ```LIMIT``` clause and ```WHERE``` clause.***
-
+  -```SUM()```
+  -```MAX()```
+  -```WHERE```
+  -```GROUP BY```
+  -```ORDER BY```
+  -```LIMIT``` 
+  -```WHERE```
 
 ### 3. [Optimizing Online Sports Retail Revenue](https://github.com/NabillaAizuddin/SQL-Projects/blob/c3fb7f0d3f674e2786768135278af61de0cb290c/notebook.ipynb)
 
