@@ -36,4 +36,18 @@ For this third project, I learnt to utilized the data to:
   
   + Use ```WHERE ___ NOT IN``` to filter the items not in the CTE.
   
-### 4. [Analyzing NYC Public School Test Result Scores]
+### 4. [Analyzing NYC Public School Test Result Scores](https://github.com/NabillaAizuddin/SQL-Projects/blob/3f6c143633f6ffb711f1dcd4eacb3626f7b11ba6/notebook.ipynb)
+
+  + Use aggregate functions such as ```MAX```, ```MIN```, ```SUM``` to analyzed which school has the highest score in SAT writing, math, and reading respectively.
+  
+  + Use ```GROUP BY``` to find the total of SAT scores according to borough and school name.
+  
+  + Other functions used in this fourth project are:
+        - ```SELECT```
+        - ```FROM```
+        - ```WHERE```
+        -```GROUP BY```
+        -```ORDER BY```
+        -```LIMIT```
+        
+ 
