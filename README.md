@@ -1,5 +1,13 @@
 # SQL-Projects
 
+Welcome to my SQL Projects. These projects are a compilation of independent projects and from courses that I have took part in these past months.
+
+## Table of Contents
++ [DataCamp SQL Projects](## DataCamp SQL Projects)
++
+
+
+
 ## DataCamp SQL Projects
 
 Click below to view the projects.
