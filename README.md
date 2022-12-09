@@ -8,7 +8,7 @@ Welcome to my SQL Projects. These projects are a compilation of independent proj
 
 
 
-## DataCamp SQL Projects <a name="DataCamp"></a>
+## DataCamp SQL Projects 
 
 Click below to view the projects.
 
@@ -66,5 +66,5 @@ For this third project, I learnt to utilized the data to:
  ### 5. [What and Where are the World's Oldest Businesses](https://github.com/NabillaAizuddin/SQL-Projects/blob/4f508f8898568bcd80b8397ce3354d38560f11dd/notebook.ipynb)
         
   + Use joining techniques to discover the oldest businesses in the world.
-  + Applyiing data manipulation on the dataset to acquire results.
+  + Applying data manipulation on the dataset to acquire results. <a name="DataCamp"></a>
  
