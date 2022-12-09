@@ -8,6 +8,11 @@ Welcome to my SQL Projects. These projects are a compilation of independent proj
 
 ______________________________________________________________________________________________________________________________________________________________
 
+## TalentLab's SQL Projects <a name="TalentLabs"></a>
+
+View the full project presentation here.
+
+______________________________________________________________________________________________________________________________________________________________
 
 ## DataCamp SQL Projects <a name="DataCamp"></a>
 
