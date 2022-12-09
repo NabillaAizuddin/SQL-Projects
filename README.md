@@ -6,7 +6,7 @@ Welcome to my SQL Projects. These projects are a compilation of independent proj
 + [TalentLab's SQL Projects](#TalentLabs)
 + [DataCamp SQL Projects](#DataCamp)
 
-#______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________
 
 
 ## DataCamp SQL Projects <a name="DataCamp"></a>
