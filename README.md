@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## TalentLab's SQL Projects <a name="TalentLabs"></a>
 
-View the full project presentation here.
+View the full project presentation [here](https://github.com/NabillaAizuddin/SQL-Projects/blob/fb50751dc7e8fb26130ad44185fff99aa399bb43/PROJECT%201%20-%20EXPLORING%20TITANIC%20DATABASE.pdf).
 
 ______________________________________________________________________________________________________________________________________________________________
 
